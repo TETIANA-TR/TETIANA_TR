@@ -34,7 +34,7 @@ Passionate about turning raw data into actionable business insights.
 ---
 
 ## 📄 Resume & Contacts
-**CV (PDF):** [CV_Tetiana_Trotska_Data_Analyst.pdf]([./CV_Tetiana_Trotska_Data_Analyst.pdf](url))  
+**CV (PDF):** [CV_Tetiana_Trotska_Data_Analyst.pdf]([./CV_Tetiana_Trotska_Data_Analyst.pdf]([url](file:///C:/Users/User/Desktop/GoIt/TETIANA%20TROTSKA.pdf)))  
 **LinkedIn:** [Tetiana Trotska](https://www.linkedin.com/in/tetiana-trotska-a2a959367)  
 **Email:** 3608326@gmail.com  
 
