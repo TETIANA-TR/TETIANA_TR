@@ -26,14 +26,12 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 
 ---
 
-## 📈 Featured Projects  
-
-### 🔹 SQL & BigQuery  
-
-📌 [Conversion Analysis by Date & Traffic Channel](https://github.com/TETIANA-TR/SQL/commit/2ed726f5f7e5d7568e1fdab4e26040ec835120ca) *(Medium)*  
-📌 [Landing Page Conversion Comparison](https://github.com/TETIANA-TR/SQL/commit/2007c25a3bddeaf24763cfb54d4c4ca198c8b329) *(Medium+)*  
-📌 [Engagement vs Purchase Correlation](https://github.com/TETIANA-TR/SQL/commit/05f195d825898e558ebd957c6410b9f303c94bcf) *(Hard)*  
-📌 [Marketing Campaign ROMI Analysis](https://github.com/TETIANA-TR/SQL/blob/main/Project%20SQL.sql)  
+📈 **Рекомендовані проекти**  
+🔹 **SQL та BigQuery**  
+- 📌 [Аналіз конверсій за датою та каналом трафіку (середній)](https://github.com/TETIANA-TR/SQL/blob/main/conversion_analysis.sql)  
+- 📌 [Порівняння конверсій цільових сторінок (середній+)](https://github.com/TETIANA-TR/SQL/commit/2007c25a3bddeaf24763cfb54d4c4ca198c8b329)  
+- 📌 [Кореляція залученості та покупки (важкий)](https://github.com/TETIANA-TR/SQL/commit/05f195d825898e558ebd957c6410b9f303c94bcf)  
+- 📌 [Аналіз ROMI маркетингової кампанії](https://github.com/TETIANA-TR/SQL/blob/main/ROMI%20analysis%20of%20a%20marketing%20campaign.sql)
 
 ---
 
