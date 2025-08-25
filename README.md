@@ -1,80 +1,83 @@
-# Hi, I’m Tetiana 👋
+# 👋 Hi, I’m Tetiana  
 
-From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passion for insights
+**From Chief Accountant ➝ Data Analyst**  
+_SQL • BigQuery • Tableau • Power BI • Looker Studio • GA4_  
 
 ---
 
 ## 🔥 About Me
-I’m transitioning into data analytics after 20+ years as a chief accountant.  
-Skilled in data collection, cleaning, analysis, and building dashboards.  
-Passionate about turning raw data into actionable business insights.
+✨ Transitioning into data analytics after **20+ years as a Chief Accountant**  
+✨ Skilled in **data collection, cleaning, analysis, and dashboarding**  
+✨ Passionate about turning **raw data into actionable business insights**  
 
 ---
 
 ## 🧰 Skills
-**Languages & Tools:** SQL, PostgreSQL, BigQuery, Google Sheets, Looker Studio, Tableau, Power BI  
-**Analytics & Methods:** Data visualization, A/B testing, GA4 analysis, marketing analytics  
-**Soft Skills:** Analytical thinking, responsibility, attention to detail, fast learner, stress-resilient
+💻 **Languages & Tools**: SQL, PostgreSQL, BigQuery, Google Sheets, Looker Studio, Tableau, Power BI  
+📊 **Analytics & Methods**: Data Visualization, A/B Testing, GA4, Marketing Analytics  
+🌱 **Soft Skills**: Analytical Thinking, Responsibility, Attention to Detail, Fast Learner, Stress-Resilient  
 
 ---
 
-## 📈 Featured Projects
+## 📈 Featured Projects  
 
-### 🔹 BigQuery & GA4 Analytics
-This repository contains sample data analytics projects using BigQuery and GA4, including SQL queries for analysis.
+### 🔷 BigQuery & GA4 Analytics  
+📌 Data analysis of user engagement & conversions in GA4 using SQL queries.  
 
-1. **Conversion Analysis by Date & Traffic Channel (Medium Level)**  
-   SQL query for a table tracking conversions from session start to purchase.  
-   Metrics: `user_sessions_count`, `visit_to_cart`, `visit_to_checkout`, `visit_to_purchase`  
-   [SQL file](https://github.com/TETIANA-TR/SQL/commit/2ed726f5f7e5d7568e1fdab4e26040ec835120ca)
+1️⃣ **Conversion Analysis by Date & Traffic Channel**  
+➡️ Metrics: sessions, cart visits, checkout, purchases  
+🔗 [View SQL](https://github.com/TETIANA-TR/SQL/commit/2ed726f5f7e5d7568e1fdab4e26040ec835120ca)  
 
-2. **Landing Page Conversion Comparison (Medium+ Level)**  
-   SQL query comparing the performance of different landing pages.  
-   Metrics: number of unique sessions, purchases, and conversion rates for 2020  
-   [SQL file](https://github.com/TETIANA-TR/SQL/commit/2007c25a3bddeaf24763cfb54d4c4ca198c8b329)
+2️⃣ **Landing Page Conversion Comparison**  
+➡️ Compared conversion rates for different landing pages (2020)  
+🔗 [View SQL](https://github.com/TETIANA-TR/SQL/commit/2007c25a3bddeaf24763cfb54d4c4ca198c8b329)  
 
-3. **Engagement vs Purchase Correlation (Hard Level)**  
-   SQL query analyzing user engagement: calculated engagement for each session, activity time, and purchase occurrence.  
-   Computed the correlation coefficient between engagement and purchase.  
-   [SQL file](https://github.com/TETIANA-TR/SQL/commit/05f195d825898e558ebd957c6410b9f303c94bcf)
+3️⃣ **Engagement vs Purchase Correlation**  
+➡️ Measured correlation coefficient between engagement & purchases  
+🔗 [View SQL](https://github.com/TETIANA-TR/SQL/commit/05f195d825898e558ebd957c6410b9f303c94bcf)  
 
 ---
 
-### 🔹 SQL Projects
-- Marketing campaign analysis, ROMI calculations, data aggregation from multiple sources.  
-- Example: combined `facebook_ads_basic_daily`, `facebook_adset`, `facebook_campaign` tables using `LEFT JOIN` and `UNION ALL` to get consolidated campaign metrics.  
-- Identified the campaign and ad set with the highest ROMI.
+### 🔷 SQL Marketing Analytics  
+📌 Combined **Facebook Ads + Google Ads** data to calculate **ROMI**  
+
+- Built a unified dataset using `LEFT JOIN` & `UNION ALL`  
+- Aggregated metrics: spend, impressions, clicks, conversions, revenue  
+- Identified the **best campaign & ad set by ROMI** (spend > 500k)  
+
+🔗 [Full SQL Project](https://github.com/TETIANA-TR/SQL/blob/main/Project%20SQL.sql)  
 
 ---
 
-### 🔹 Google Looker Studio
-**Ad Campaign Performance Dashboard**  
-[Looker Studio Report](https://lookerstudio.google.com/reporting/fdddc53c-02d7-4230-a880-9f1b367bc89a)
+### 🔷 Google Looker Studio Dashboard  
+📊 **Ad Campaign Performance Dashboard**  
+🔗 [View Report](https://lookerstudio.google.com/reporting/fdddc53c-02d7-4230-a880-9f1b367bc89a)  
 
-- Analyzed advertising campaigns using key metrics: Ad Spend, CPC, CPM, CTR, ROMI  
-- Interactive visualizations for quick assessment of campaign efficiency  
-- Methodology: data from PostgreSQL via SQL, prepared in Google Sheets, calculated fields for KPIs  
-- Key Visualizations: combination chart (Ad Spend & ROMI), line graph (active campaigns), table with heatmap, KPI cards  
-- Filters: campaign name and date range, charts update synchronously  
-
----
-
-### 🔹 Tableau Dashboards
-[Tableau Public Dashboard](https://public.tableau.com/views/Book4_17467082423910/revenue_product?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-- Visualized business data and user metrics  
-- Sheets include: total monthly revenue, revenue by location/product, ARPPU and Paid Users, box plot for transaction comparison, cohort analysis table  
-- Built dashboards with 6 sheets and applied filters by location, product, and date  
+- Metrics: **Ad Spend, CPC, CPM, CTR, ROMI**  
+- Visuals: Combination charts, KPIs, heatmaps, line graphs  
+- Filters: campaign name & date  
+- Outcome: Clear insights into **spending efficiency & campaign activity**  
 
 ---
 
-## 📄 Resume & Contacts
-**CV (PDF):** [📄 Download my Resume](https://github.com/TETIANA-TR/TETIANA-TR/blob/018ac0b3b42938c3ea376694419d7396aab6aee1/resume.pdf)  
-**LinkedIn:** [Tetiana Trotska](https://www.linkedin.com/in/tetiana-trotska-a2a959367)  
-**Email:** 3608326@gmail.com  
+### 🔷 Tableau Dashboards  
+📊 [Tableau Public Dashboard](https://public.tableau.com/views/Book4_17467082423910/revenue_product?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)  
+
+- Monthly revenue analysis by **location & product**  
+- ARPPU & Paid Users trend analysis  
+- Cohort analysis of revenue growth  
+- 2 interactive dashboards with filters (location, product, date)  
 
 ---
 
-## 🌟 Fun / Extras
-- Learning every day and experimenting with new BI tools  
-- Always looking to connect and share experiences!
+## 📄 Resume & Contacts  
+📑 **[Download CV (PDF)](https://github.com/TETIANA-TR/TETIANA-TR/blob/018ac0b3b42938c3ea376694419d7396aab6aee1/resume.pdf)**  
+🔗 [LinkedIn: Tetiana Trotska](https://www.linkedin.com/in/tetiana-trotska-a2a959367)  
+📧 **3608326@gmail.com**  
+
+---
+
+## 🌟 Fun Facts  
+💡 Lifelong learner, experimenting with BI tools daily  
+🤝 Open to collaboration & sharing knowledge  
+🚀 Passionate about data-driven decision making  
