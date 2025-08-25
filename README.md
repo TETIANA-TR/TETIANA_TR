@@ -33,7 +33,7 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 📌 [Conversion Analysis by Date & Traffic Channel](https://github.com/TETIANA-TR/SQL/commit/2ed726f5f7e5d7568e1fdab4e26040ec835120ca)   
 📌 [Landing Page Conversion Comparison](https://github.com/TETIANA-TR/SQL/commit/2007c25a3bddeaf24763cfb54d4c4ca198c8b329)   
 📌 [Engagement vs Purchase Correlation](https://github.com/TETIANA-TR/SQL/commit/05f195d825898e558ebd957c6410b9f303c94bcf)   
-📌 [Marketing Campaign ROMI Analysis](https://github.com/TETIANA-TR/SQL/blob/main/Project%20SQL.sql)  
+📌 [Marketing Campaign ROMI Analysis](https://github.com/TETIANA-TR/SQL/commit/7d862aec9247f2d369611d7a19a3cb2083dfdd6a)  
 
 ---
 
