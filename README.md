@@ -52,6 +52,13 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 
 ---
 
+### 📝 Google Sheets Projects 
+
+📊 [Cohort Analysis & User Activity Tracking](https://docs.google.com/spreadsheets/d/1-U1a15GskDTBT9JHpJTTCB34thEOS4lSMbd-NBBMYrg/edit?usp=sharing)  
+📊 [Nuclear Safety Analysis](https://docs.google.com/spreadsheets/d/1vkV0yPkAGKJj7JgO_6gzE1o4brZBizAkmwFKW9vRps8/edit?gid=210985714#gid=210985714)  
+
+---
+
 ## 📄 Resume & Contacts  
 
 [![📝 Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge)](https://github.com/TETIANA-TR/TETIANA_TR/blob/main/TETIANA%20TROTSKA%20resume%201.pdf)   
