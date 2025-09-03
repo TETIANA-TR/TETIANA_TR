@@ -60,8 +60,7 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)  
 
-[![✉️ Email](https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge)](mailto:3608326@gmail.com)
-
+[![✉️ Email](https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge)](https://mail.google.com/mail/?view=cm&fs=1&to=3608326@gmail.com)
 
 ---
 
