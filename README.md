@@ -48,7 +48,7 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 ### 🔶 Tableau Dashboards  
 
 📊 [Revenue & Sales Analysis](https://public.tableau.com/views/Book4_17467082423910/revenue_product)  
-📊 [Extended Coffee Shop Report](https://lnkd.in/eTaqjTHA)  
+📊 [Extended Coffee Shop Report](https://public.tableau.com/app/profile/tetiana.tetiana6595/viz/shared/MJFTSRSRW)  
 
 ---
 
