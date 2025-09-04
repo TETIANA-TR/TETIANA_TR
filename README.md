@@ -61,7 +61,7 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 
 ## 📄 Resume & Contacts  
 
-[![📝 Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge)](https://github.com/TETIANA-TR/TETIANA_TR/blob/main/TETIANA%20TROTSKA%20resume%201.pdf)   
+[![📝 Resume](https://img.shields.io/badge/-View%20Resume-blue?style=for-the-badge)](https://github.com/TETIANA-TR/TETIANA_TR/blob/b96bf3aa233ca183aa311b84d28e2835227397fa/TETIANA%20TROTSKA.pdf)   
 
 [![📥 Download PDF](https://img.shields.io/badge/-Download%20PDF-green?style=for-the-badge)](https://github.com/TETIANA-TR/TETIANA_TR/raw/main/TETIANA%20TROTSKA%20resume%201.pdf)  
 
