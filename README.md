@@ -6,7 +6,7 @@ From Chief Accountant to Data Analyst | SQL, BigQuery, Tableau, Power BI | Passi
 ---
 
 ## 🔥 About Me  
-- Transitioning into data analytics after 20+ years as a **Chief Accountant**  
+- Over 20 years of experience as a **chief accountan**t with a focus on data analytics  
 - Skilled in **data collection, cleaning, analysis, and building dashboards**  
 - Passionate about **turning raw data into actionable business insights**  
 
